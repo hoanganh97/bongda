@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /application/controllers/admin
+Disallow: /application/core
+Disallow: /application/models
