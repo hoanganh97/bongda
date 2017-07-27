@@ -1,4 +1,3 @@
-<?php  ?>
 <div class="row">
     <div class="col-sm-6">Quản lý giải đấu</div>
     <div class="col-sm-6">

@@ -1,4 +1,3 @@
-<?php?>
 <div class="row">
     <div class="col-sm-6">Quản lý bài viết</div>
     <div class="col-sm-6"><i class="fa fa-plus" aria-hidden="true"></i>Thêm bài viết</div>
